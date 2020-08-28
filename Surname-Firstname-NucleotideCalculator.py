@@ -3,5 +3,5 @@
 __author__      = "Michael Cuffe"
 i = 0 
 while i < 200:
-  print("fish")
+  print("fish", end = " ")
   i += 1
