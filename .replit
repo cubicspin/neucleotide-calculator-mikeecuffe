@@ -1,2 +1,2 @@
 language = "python3"
-run = "python3 Surname-Firstname-NucleotideCalculator.py"
+run = "npm install"
